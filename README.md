@@ -1,16 +1,13 @@
-## Hi there 👋
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Thanafas-Ali-Muhammad/Thanafas-Ali-Muhammad/main/dark.svg">
+  <img align="right" width="450" src="https://raw.githubusercontent.com/Thanafas-Ali-Muhammad/Thanafas-Ali-Muhammad/main/light.svg" alt="Profile card"/>
+</picture>
 
-<!--
-**Thanafas-Ali-Muhammad/Thanafas-Ali-Muhammad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi, I'm Thanafus 👋
+AI/ML student building with Claude, HubSpot & automation tools.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 BTech AI @ APJ Abdul Kalam Technological University (KTU)
+- 🔭 Currently: Applied AI & automation projects
+- 🌱 Learning: Prompt engineering, LLM workflows
+- 📫 Reach me: thanafasts@gmail.com
+- 🤝 Open to: AI/Tech internships & collaborations
